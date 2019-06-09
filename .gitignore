@@ -7,3 +7,4 @@ Assets/Plugins/Editor/JetBrains
 *.csproj
 Assets/GoogleDriveSetting.asset
 Assets/GoogleDriveSetting.asset.meta
+obj
