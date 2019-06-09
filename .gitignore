@@ -5,3 +5,5 @@ Logs
 Assets/Plugins/Editor/JetBrains
 *.sln
 *.csproj
+Assets/GoogleDriveSetting.asset
+Assets/GoogleDriveSetting.asset.meta
